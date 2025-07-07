@@ -2,8 +2,8 @@ import 'dart:developer';
 import 'dart:typed_data';
 import 'dart:ui';
 
-import 'package:get_thumbnail_video/index.dart';
-import 'package:get_thumbnail_video/video_thumbnail.dart';
+import 'package:get_video_thumbnail/index.dart';
+import 'package:get_video_thumbnail/get_video_thumbnail.dart';
 
 /// Formats a [Duration] object to a human-readable string.
 ///
